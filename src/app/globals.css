@@ -25,6 +25,13 @@ body {
   overflow: hidden;
 }
 
+@media only screen and (max-width: 600px) {
+  body {
+    background-size : cover;
+  }
+  
+}
+
 #dot-container {
   position: fixed;
   width: 100%;

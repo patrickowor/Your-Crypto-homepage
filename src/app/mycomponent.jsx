@@ -32,10 +32,7 @@ export function Body() {
 
             <div className={style.inputDiv}>
                 <input className={style.input} type="email" placeholder='Enter your email'/>
-
-                <div className={style.inpbtn}>
-                    join waitlist
-                </div>
+                <button className={style.inpbtn}> join waitlist </button >
             </div>
 
             <div className={style.early}>
