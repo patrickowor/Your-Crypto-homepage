@@ -24,8 +24,8 @@ export function Body() {
 
     <div className={style.mainwrapper}>
         <div className={style.mainbody}>
-            <div className={style.title}>Your Crypto.</div>
-            <div className={style.title}>Family Style.</div>
+            <h1 className={style.title}>Your Crypto.</h1>
+            <h1 className={style.title}>Family Style.</h1>
             <div className={style.text}>
                 Explore Ethereum with the best wallet for iOS.<br /> Interacting with crypto has never been so simple.
             </div>

@@ -5,7 +5,11 @@
   width: 98%;
 }
 
-
+.title {
+  margin: 0px;
+  padding: 0px;
+  
+}
 
 .heading div {
   width: 20px;
@@ -88,14 +92,15 @@
   font-size: 40px;
   font-weight: 700;
   align-self: stretch;
-  color: #FFF;
-text-align: center;
-/* Header text */
-font-family: Jost;
-font-size: 50.574px;
-font-style: normal;
-font-weight: 700;
-line-height: 106.5%; /* 107.112px */
+  /* color: #FFF; */
+  background: linear-gradient(white black white  );
+  text-align: center;
+  /* Header text */
+  font-family: Jost;
+  font-size: 50.574px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 106.5%; /* 107.112px */
 }
 
 .early {
